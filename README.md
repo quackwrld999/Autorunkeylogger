@@ -5,7 +5,6 @@
 Recently worked on a Keylogger Project to understand how keystroke logging works and how attackers exploit this technique. This project was built for ethical hacking and cybersecurity awareness, aiming to learn about detection and prevention mechanisms. 🔍
 
 🔹 Tech Stack: Python, pynput, logging, threading.
-🔹 What I Learned: Practical insights into cybersecurity, ethical hacking, and security countermeasures.
 🔹 Why It Matters: Awareness of security risks helps better protect against cyber threats.
 
 ⚠️Prevention & Countermeasures
@@ -24,4 +23,4 @@ Recently worked on a Keylogger Project to understand how keystroke logging works
 Regedit ->HKEY_CURRENT_USER -> SOFTWARE -> Microsoft -> Windows ->CurrentVersion ->Run
 In the run section right click and set a new string value (add the file path in value data)
 
----------The following code is for windows system only but if you are in linux distro you only need to edit the file path of you log data----------
+---------The following code is for windows system only----------
