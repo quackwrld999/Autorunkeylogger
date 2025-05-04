@@ -2,10 +2,7 @@
 
 🚀 Keylogger Project 
 
-Recently worked on a Keylogger Project to understand how keystroke logging works and how attackers exploit this technique. This project was built for ethical hacking and cybersecurity awareness, aiming to learn about detection and prevention mechanisms. 🔍
-
 🔹 Tech Stack: Python, pynput, logging, threading.
-🔹 Why It Matters: Awareness of security risks helps better protect against cyber threats.
 
 ⚠️Prevention & Countermeasures
 1. use anti-keylogger software.
